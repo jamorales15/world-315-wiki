@@ -6,5 +6,3 @@
 # Hello World
 
 This is my homepage!
-
-Link to [[GM Notes\|GM Notes]]
