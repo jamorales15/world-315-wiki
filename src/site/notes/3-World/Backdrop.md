@@ -35,7 +35,7 @@ Physical travel between regions is as taxing as early colonial efforts to travel
 #### Is there a dominant religion? Who governs it?
 The Ingenium. The teaching that power comes innately from all individuals. It's most sacred text, the Nexus Ingenium, starts with the telling of the overthrow of the Outsiders who lured the ancestors with promises of powers from beyond and once tempted, used it to enslave them. Sadly this has devolved over the eons into different sects who view all foreigners as outsiders that may tempt their people with strange new ideas.
 
-Most nations are untrusting of each other. Cultural identities are maybe tied to 1-3 city-states within a single region who trade and interact with each other. Those outside that region may have different and varying interpretations of the Nexus Ingenium. Some even declaring other nations as heretics who must be converted or destroyed.
+Most nations are untrusting of each other. Cultural identities are maybe tied to 2-3 city-states within a single region who trade and interact with each other. Those outside that region may have different and varying interpretations of the Nexus Ingenium. Some even declaring other nations as heretics who must be converted or destroyed.
 
 There are of course those who have become secular. Believing that although the Outsiders certainly existed, their destruction was of their own undoing. There wish is to learn from their mistakes and use their technology for the betterment of the world.
 </br>
