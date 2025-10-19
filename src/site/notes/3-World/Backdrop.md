@@ -30,7 +30,7 @@ Society is split into various regions with local city-states vying for control b
 
 Physical travel between regions is as taxing as early colonial efforts to travel to the newly discovered Americas on our Earth.
 
-#### Is there a dominant religion? Who governs it?
+#### Is there a dominant [[3-World/Religion\|Religion]]? Who governs it?
 The Ingenium. The teaching that power comes innately from all individuals. It's most sacred text, the Nexus Ingenium, starts with the telling of the overthrow of the Outsiders who lured the ancestors with promises of powers from beyond and once tempted, used it to enslave them. Sadly this has devolved over the eons into different sects who view all foreigners as outsiders that may tempt their people with strange new ideas.
 
 Most nations are untrusting of each other. Cultural identities are maybe tied to 2-3 city-states within a single region who trade and interact with each other. Those outside that region may have different and varying interpretations of the Nexus Ingenium. Some even declaring other nations as heretics who must be converted or destroyed.
