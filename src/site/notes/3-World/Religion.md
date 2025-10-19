@@ -14,8 +14,14 @@ A sect that believes that the Outsiders were not inherently evil but that the an
 ### Verum Ingenium
 Those who interpret the inherent strength in people as originating from a select few. This manifests as sorcerers of magic. Additionally the ancestors specifically from the region that would become Vey-Ruma are believed to be the first mages that overthrew the tyrannical Outsiders. This would mean all who hail from the Vey-Ruma empire and who possess magic are chosen people who will lead humanity into a new age. All others are lesser, or worse, heretics.
 
+The complete lack of casualties or damage at the hand of the Mother of Tempests was used as proof of Vey-Ruma's ordained superiority. This became the basis for their new religious doctrine after the first new tablets were excavated and translated.
+
 ### Vox Historia
 A guild of scientists, researchers, archaeologists, and historians who aren't preoccupied by a cosmological view of the outsiders. They are much more interested in the loss of history, technology, and writing from that period and wish to study Outsider and xeno-formed please without the prejudice of other religions. 
 - They are publicly tolerated by the Pax Ingenium though privately they are wary of the guild's philosophy and worry of the temptation of greed without a religious centering.
 
 - the Verum Ingenium outwardly calls them heretics and have actively called for their arrest.
+
+### Secret Cult of the Outsiders
+
+Secretly there is 4th major player in the fate of Remidira. Their ideology leads them to believe that resurrecting the Outsiders will somehow benefit them. More needs to be known about them. The players and the world at large knows nothing of this group. They have a logo and codes they use to communicate secretly to one another. Almost like Hobo pictograms.
