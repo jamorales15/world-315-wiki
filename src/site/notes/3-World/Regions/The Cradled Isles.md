@@ -3,7 +3,7 @@
 ---
 
 So named because of the impassable mountain range sheltering it. The peaks are unnaturally spiked on top without any plateau. 
-![TheCradledIslesFULL.jpg](/img/user/z_Assets/TheCradledIslesFULL.jpg)
+
 - Home of 3 Kingdoms each populated by a majority of followers of Paxas Ingenium
 - To the west of the mountain lies an Agrarian kingdom of farmers including animal husbandry. They are known for their large and unusually intelligent horses. They are also secretly home to the greatest guild of assassins in the Remidira.
 - Further west, past a river and large hills, lies a druidic forest kingdom of artisans and craftsmen. Their inner circle are a group of night worshipping shape shifters.
