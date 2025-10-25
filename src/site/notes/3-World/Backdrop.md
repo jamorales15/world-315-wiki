@@ -6,7 +6,7 @@
 World 315 was lost to the greater galactic community when it's previous alien rulers, the Observers, were overthrown by the indigenous population. Now the entire system is in the "void", a pocket dimension created by the Outsiders for some unknown purpose.
 
 #### What’s the name of this world for people in your scope?
-Redimira (As in Redemption)
+Rhymidris (As in Redemption)
 
 #### Are natural physical laws mostly the same as in our world?
 There are no stars in the sky other than their sun. Unbeknownst to the people, their solar system was banished into a void. Stars are only things rarely mentioned in pre "Void Out" Outsider texts.
@@ -31,14 +31,14 @@ Society is split into various regions with local city-states vying for control b
 Physical travel between regions is as taxing as early colonial efforts to travel to the newly discovered Americas on our Earth.
 
 #### Is there a dominant [[3-World/Religion\|Religion]]? Who governs it?
-The Ingenium. The teaching that power comes innately from all individuals. It's most sacred text, the Nexus Ingenium, starts with the telling of the overthrow of the Outsiders who lured the ancestors with promises of powers from beyond and once tempted, used it to enslave them. Sadly this has devolved over the eons into different sects who view all foreigners as outsiders that may tempt their people with strange new ideas.
+The Ingenium. The teaching that power comes innately from all individuals. It's most sacred text, the Nexum Ingenium, starts with the telling of the overthrow of the Outsiders who lured the ancestors with promises of powers from beyond and once tempted, used it to enslave them. Sadly this has devolved over the eons into different sects who view all foreigners as outsiders that may tempt their people with strange new ideas.
 
-Most nations are untrusting of each other. Cultural identities are maybe tied to 2-3 city-states within a single region who trade and interact with each other. Those outside that region may have different and varying interpretations of the Nexus Ingenium. Some even declaring other nations as heretics who must be converted or destroyed.
+Most nations are untrusting of each other. Cultural identities are maybe tied to 2-3 city-states within a single region who trade and interact with each other. Those outside that region may have different and varying interpretations of the Nexum Ingenium. Some even declaring other nations as heretics who must be converted or destroyed.
 
 There are of course those who have become secular. Believing that although the Outsiders certainly existed, their destruction was of their own undoing. There wish is to learn from their mistakes and use their technology for the betterment of the world.
 
 #### Are there any vast global events that have happened recently?
-- A massive earthquake took place 10 years ago that massively changed the landscape of many regions. Cutting off long held trade routes and unearthing many new dungeons.
+- The Mother of Tempests happened around 300 years ago. The Nexum Ingenium was discovered a few years after. They first dungeons were unearthed during the Mother of Tempests. As well as the Xeno swamp places 
 - A little less than a year ago, a scientific expedition into one of these newly unearthed dungeons found what has become something of a Rosetta Stone for the Outsider's language. This discovery is still being researched but has staggering implications that has the world divided.
 
 

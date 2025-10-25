@@ -9,6 +9,6 @@ This will have links to all player visible information and maybe widgets to disp
 ###### World Lore
 - The [[3-World/Backdrop\|Backdrop]]
 - [[3-World/Religion\|Religion]]
-- [[3-World/Regions/Valley of Thorns\|Valley of Thorns]]
-- [[3-World/Regions/Vey-Ruma Empire\|Vey-Ruma Empire]]
+- [[3-World/Regions/The Cradled Isles\|The Cradled Isles]]
+- [[3-World/Regions/Veyrüm Empire\|Veyrüm Empire]]
 - [[3-World/World Map\|World Map]]
