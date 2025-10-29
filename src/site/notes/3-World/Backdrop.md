@@ -6,7 +6,7 @@
 World 315 was lost to the greater galactic community when it's previous alien rulers, the Observers, were overthrown by the indigenous population. Now the entire system is in the "void", a pocket dimension created by the Outsiders for some unknown purpose.
 
 #### What’s the name of this world for people in your scope?
-Rhymidris (As in Redemption)
+Veylis (As in Volition)
 
 #### Are natural physical laws mostly the same as in our world?
 There are no stars in the sky other than their sun. Unbeknownst to the people, their solar system was banished into a void. Stars are only things rarely mentioned in pre "Void Out" Outsider texts.
