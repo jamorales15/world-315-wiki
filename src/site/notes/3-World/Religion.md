@@ -10,10 +10,10 @@ The tablet known as the Nexus Ingenium was found 300 years ago and translated as
 
 > [!info]- Core Tenants
 > 1. Beware rewards that are unearned. This includes:
-> 	1. Money
-> 	2. Positions of Power
-> 	3. Proposition of the Flesh
-> 	4. Friendship and Trust
+> > 1. Money
+> > 2. Positions of Power
+> > 3. Proposition of the Flesh
+> > 4. Friendship and Trust
 
 
 ### Paxas Ingenium
