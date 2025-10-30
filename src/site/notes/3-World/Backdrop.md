@@ -9,7 +9,7 @@ World 315 was lost to the greater galactic community when it's previous alien ru
 Veylis (As in Volition)
 
 #### Is magic present in this world? If yes, how common is it?
-Magic is present in Veylis. In fact every individual has access to an internal source of magic called "[The Vey](<Magic System - The Vey.md>)". Some have an natural talent to access it, but most require rigorous training and study to do anything other than rudimentary physical augmentations in emotionally charged situations. (Augments might be slightly enhancing strength or changing one's hair color.) A single group of adventurers from the deep past were able to reach self-actualization with their Vey and became functionally immortal (like elves). 
+Magic is present in Veylis. In fact every individual has access to an internal source of magic called "[[3-World/The Vey\|The Vey]]". Some have an natural talent to access it, but most require rigorous training and study to do anything other than rudimentary physical augmentations in emotionally charged situations. (Augments might be slightly enhancing strength or changing one's hair color.) A single group of adventurers from the deep past were able to reach self-actualization with their Vey and became functionally immortal (like elves). 
 
 #### Are natural physical laws mostly the same as in our world?
 There are no stars in the sky other than their sun. Unbeknownst to the people, their solar system was banished into a void. Stars are only things rarely mentioned in pre "Void Out" Outsider texts.
