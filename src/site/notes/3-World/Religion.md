@@ -9,7 +9,7 @@ The teaching that power comes innately from all individuals. It's most sacred te
 The tablet known as the Nexus Ingenium was found 300 years ago and translated as best it could however 50 years ago after an earthquake new tablets were found that act as incomplete Rosetta Stones, with no one willing to share their piece to complete the whole. With each society interpreting it differently. This has led the Nexus Ingenium to branch off into conflicting ideologies. Each using these new tablets to reinterpret the original Nexus Ingenium. Branching sects include the Paxas Ingenium and the Rüm Ingenium.
 
 > [!info]- Core Tenants
-> 1. Beware rewards that are unearned. This includes:
+> Beware rewards that are unearned. This includes:
 > > - Money
 > > - Positions of Power
 > > - Proposition of the Flesh
