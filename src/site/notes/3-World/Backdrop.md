@@ -9,7 +9,7 @@ World 315 was lost to the greater galactic community when it's previous alien ru
 Veylis (As in Volition)
 
 #### Is magic present in this world? If yes, how common is it?
-Magic is present in Veylis. In fact every individual has access to an internal source of magic called "[[3-World/The Vey\|The Vey]]". Some have an natural talent to access it, but most require rigorous training and study to do anything other than rudimentary physical augmentations in emotionally charged situations. (Augments might be slightly enhancing strength or changing one's hair color.) A single group of adventurers from the deep past were able to reach self-actualization with their Vey and became functionally immortal (like elves). 
+Magic is present in Veylis. In fact every individual has access to an internal source of magic called "[[3-World/The Vey\|The Vey]]". It requires rigorous training and study to do anything other than rudimentary physical augmentations in emotionally charged situations. (Augments might be slightly enhancing strength or changing one's hair color.) A single group of adventurers from the deep past were able to reach self-actualization with their Vey and became functionally immortal (like elves). 
 
 #### Are natural physical laws mostly the same as in our world?
 There are no stars in the sky other than their sun. Unbeknownst to the people, their solar system was banished into a void. Stars are only things rarely mentioned in pre "Void Out" Outsider texts.
@@ -24,7 +24,7 @@ The closest would be the underground dwellings of Outsider facilities ravaged by
 #### Are there any global-scale empires or groups that impinge on the campaign’s scope? 
 - The Outsiders
 	- While no longer alive, their machines and otherworldly xeno-formed flora and fauna still wreak havoc in certain self contained locations across the planet.
-	- Certain methods/rituals could potentially bring these beings back if one had the knowledge and materials to do so.
+	- In reality the Outsiders are alive but are in the bodies of the 4 Heroes of Legend
 
 #### How interconnected are the parts of your world?
 The world is slightly smaller than Earth. It is divided by oceans and mountains and some sites of xeno-formed flora/fauna where only the boldest of adventurers trek.
@@ -42,7 +42,7 @@ There are of course those who have become secular. Believing that although the O
 
 #### Are there any vast global events that have happened recently?
 - The Mother of Tempests happened around 300 years ago. The Nexum Ingenium was discovered a few years after. They first dungeons were unearthed during the Mother of Tempests. As well as the Xeno swamp places 
-- A little less than a year ago, a scientific expedition into one of these newly unearthed dungeons found what has become something of a Rosetta Stone for the Outsider's language. This discovery is still being researched but has staggering implications that has the world divided.
+- Around 50 years ago, a scientific expedition into one of these newly unearthed dungeons found what has become something of a Rosetta Stone for the Outsider's language. This discovery is still being researched but has staggering implications that has the world divided.
 
 
 
