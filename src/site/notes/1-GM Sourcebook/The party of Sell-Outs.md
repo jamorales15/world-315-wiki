@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-gm-sourcebook/the-party-of-sell-outs/"}
 ---
 
+![sellouts.png](/img/user/z_Assets/sellouts.png)
+
 # What made these adventures sell-out?
 
 What corporate entity invaded their spirit and caused this turn of character
