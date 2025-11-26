@@ -9,16 +9,13 @@
 The Vey is an extrapolation of many things. Will, Faith, Wisdom, Self-Perception to name a few. Most importantly it is **not** an omnipresent external entity (like the Force from Star Wars). Instead it **innately** exists in living things. No individual can pull from another's Vey. Each person's Vey is uniquely their own. It is especially potent in sapient beings capable of intent. It is up to each individual to define and perceive their Vey for themselves or ignore it all together.
 
 
-> [!NOTE]- Highest Rule of Vey
-> It is IMPOSSIBLE to directly affect another's Vey with your own. 
-Furthermore, only living things have Vey and this means only living things can produce magic. This means there are no such things as enchanted items like swords or artifacts.
-Another's Vey can only be tempered with by mundane means. Persuasion towards another ideology, Torture to break one's will, conversion to another faith, studying under different schools of thought, etc.
-Examples: You cannot simply drink a potion and be granted the ability to change forms. It is IMPOSSIBLE to directly affect another's Vey with your own. 
-Furthermore, only living things have Vey and this means only living things can produce magic. This means there are no such things as enchanted items like swords or artifacts.
-Another's Vey can only be tempered with by mundane means. Persuasion towards another ideology, Torture to break one's will, conversion to another faith, studying under different schools of thought, etc.
-Examples: 
-You cannot simply drink a potion and be granted the ability to change forms. 
-You cannot simply read from a scroll to cast a fireball
+> [!INFO]- Highest Rule of Vey
+> It is IMPOSSIBLE to directly affect another's Vey with your own. Another's Vey can only be tampered with by mundane means. Persuasion towards another ideology, Torture to break one's will, conversion to another faith, studying under different schools of thought, etc.
+> 
+> Furthermore, only living things have Vey and this means only living things can produce magic. This means there are no such things as enchanted items like swords or artifacts.
+>> [!NOTE]- Examples
+>> - You cannot simply drink a potion and be granted abilities
+>> - You cannot simply read from a scroll to cast a fireball
 
 
 <br>
