@@ -21,6 +21,6 @@ Affordimg the Wizard profit from their military industrial complex. They also ha
 ### The Rogue is a special case...
 In the beginning the The Sellout Party wanted to use their new found bodies to continue their work as usual. However the Rogue in just a few days/weeks lost their immortality and most of their power because of an unknown rule of magic. The ideology that powers their powers comes from the ideology of the host body, not the Lich's ideology. The others 3 (Bard, Cleric, Wizard) realize that the Rogue's ideology (Steal from the rich to give to the poor) is so antithetical to a Corporate ideology that the body lost its powers incredibly quickly. This gave time for the other 3 to course correct and corrupt the ideology of their hosts. Making them sellouts that still fulfill the original rule of each possessed party member. Just in a twisted way. A loophole basically. 
 
-The Rogue is humbled by this and fries a fondness for adventures who he sees as better people than him. He is secretly the friend who died whose funeral the PCs attend at the beginning of the game.
+The Rogue is humbled by this and develops a fondness for adventurers whom he sees as better people than him. He is secretly the friend who died whose funeral the PCs attend at the beginning of the game.
 
 The Rogue secretly was working against the other 3 in secret but was actually found out all these centuries later and was killed by them.
