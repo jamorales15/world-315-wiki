@@ -14,7 +14,7 @@ Currently the city is governed by a council of merchants, foremen, artisans, and
 
 ### A Faction of Strength
 
-Bastion is a prideful nation that celebrates a the strength of it's people. Their are known for their ideals of achievement and pushing the boundaries of industry. Their architecture is known the world round with the Embassy of Thorns being it's crown achievement. It is law that no other building in the nation may be taller than the Embassy.
+Bastion is a prideful nation that celebrates the strength of its people. Their are known for their ideals of achievement and pushing the boundaries of industry. Their architecture is known the world round with the Embassy of Thorns being it's crown achievement. It is law that no other building in the nation may be taller than the Embassy.
 
 > [!EXAMPLE]- Other Achievements
 > - The Tempered Mines whose efficiency is ensured by cutting edge machinery
