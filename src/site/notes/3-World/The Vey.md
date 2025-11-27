@@ -9,7 +9,7 @@
 The Vey is an extrapolation of many things. Will, Faith, Wisdom, Self-Perception to name a few. Most importantly it is **not** an omnipresent external entity (like the Force from Star Wars). Instead it **innately** exists in living things. No individual can pull from another's Vey. Each person's Vey is uniquely their own. It is especially potent in sapient beings capable of intent. It is up to each individual to define and perceive their Vey for themselves or ignore it all together.
 
 
-> [!ATTENTION]- Highest Rule of Vey
+> [!ATTENTION]+ Highest Rule of Vey
 > It is IMPOSSIBLE to directly affect another's Vey with your own. Another's Vey can only be tampered with by mundane means. Persuasion towards another ideology, Torture to break one's will, conversion to another faith, studying under different schools of thought, etc.
 > 
 > Furthermore, only living things have Vey and this means only living things can produce magic. This means there are no such things as enchanted items like swords or artifacts.
