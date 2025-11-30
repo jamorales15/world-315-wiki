@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-world/factions/bastion/"}
 ---
 
-# Bastion - The City of Strength
+# Bastion - The City of Possibilities
 
 ![bastion.png](/img/user/z_Assets/bastion.png)
 
