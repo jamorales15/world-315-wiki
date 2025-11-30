@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-world/factions/the-free-cities/"}
 ---
 
-1# The Free Cities - Community of Communes
+# The Free Cities - Community of Communes
 
 ![freecities.png](/img/user/z_Assets/freecities.png)
 
@@ -25,7 +25,7 @@ Beyond their gifted artisans, the Free Cities is an integral source of food for 
 
 ### Treasure: Reservoir (Structure/Place)
 
-Built by damning the bisecting river, the reservoir is of the utmost importance to the Free Cities. It provides the ability to farm all of the land to capacity and also offers drinking water and indoor plumbing to all. The act of damning the river was seen as a hostile act by the Druids. To the east of the reservoir is a large flooded area where the druids successfully blew a hole in the reservoir. More explosions would have gone off but they were found in time by the People's Guard.
+Built by damning the bisecting river, the reservoir is of the utmost importance to the Free Cities. It provides the ability to farm all of the land to capacity and also offers drinking water and indoor plumbing to all. The act of damning the river was seen as a hostile act by the Druids. To the west of the reservoir is a large flooded area where the druids successfully blew a hole in the reservoir. More explosions would have gone off but they were found in time by the People's Guard.
 
 ### Treasure: Espionage (Skill)
 
