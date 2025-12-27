@@ -11,6 +11,7 @@ This will have links to all player visible information and maybe widgets to disp
 - [[3-World/Religion\|Religion]]
 - [[3-World/Regions/The Cradled Isles\|The Cradled Isles]]
 	- [[3-World/Factions/Bastion\|Bastion]]
-	- [[3-World/Factions/The Free Cities\|The Free Cities]]
+	- [[3-World/Factions/The Seachaven League\|The Seachaven League]]
+	- [[3-World/Factions/Auctus\|Auctus]]
 - [[3-World/Regions/Veyrüm Empire\|Veyrüm Empire]]
 - [[3-World/World Map\|World Map]]
