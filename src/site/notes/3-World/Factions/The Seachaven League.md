@@ -4,7 +4,7 @@
 
 # The Seachaven League - Community of Communes
 
-![freecities.png](/img/user/z_Assets/freecities.png)
+![seachaven.png](/img/user/z_Assets/seachaven.png)
 
 ### Faction Type: Clan
 

@@ -4,6 +4,9 @@
 
 ## Player Dashboard
 
+> [!WARNING]+
+> **The following resources were made from the account of and for the benefit of House Lavos of Bastion. Sharing of this information outside the House is strictly prohibited.**
+
 This will have links to all player visible information and maybe widgets to display current stats, summary of latest session journal, and places or NPCs recently interacted with, current goals, etc.
 
 ###### World Lore

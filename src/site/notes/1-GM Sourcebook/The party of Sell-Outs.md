@@ -10,15 +10,30 @@ What corporate entity invaded their spirit and caused this turn of character
 
 How does this reflect on how each party members possessed spirit interacts with the world now?
 
-### The Bard becomes a stereotypical sellout.
-Finding hypnotic appeal though carefully calculated, psychological proven music that entrances the most people. This and a new system of viewing there music through exclusive and expensive balls where specially authorized "proxy bards" play the Bard's music. This makes them much profit and effectively removes any chance of independent bards from finding work to support their families. All noble houses simply request performances from proxy bands of the Bard and are blessed by its magic. The Bard himself hasn't made an original song in years. Simply relying on his backlog of mass market hits.
+### The Bard controls the Media
+The Bard isn't just a singer; he is the Grand Censor and Postmaster General.
+
+The Institution: The Royal Herald’s College. This institution manages all "Official News," town criers, and the postal service.
+
+The Power: The Seal of Truth. No news can be read in a town square, and no book can be printed, without the College's "Lyric Seal." He controls the Bridges and the Birds—meaning he can intercept any letter and "edit" any rumor before it spreads.
+
+The Corruption (The "Benefit"): He treats the world’s information like a stock market. He "pumps" news that makes his allies look good and "dumps" news that ruins his enemies. He isn't just a performer; he is the World’s Public Relations Manager. He uses his position to ensure that the "True History" of the cataclysm (and the Rogue's murder) is never told.
+
+The Title: The Grand Harmonist and High Herald.
 
 ### The Cleric becomes a sellout to Rüm Ingenium. 
 Becoming the Prophet and Pope of a religion that actively spouts fascist, nationalistic, and malevolent rhetoric all because it affords the Cleric access to powerful friends and profit. It also gives them access to an unheard of scale of worshippers who may in fact be more loyal to the Cleric than the [[3-World/Regions/Veyrüm Empire\|Veyrüm empire]].
 
-### The Wizard becomes a black market arms dealer
-an underground enchanted weapon maker and supplier. 
-Affording the Wizard profit from their military industrial complex. They also have a direct hand in the moving of geo-politcal trends. Instigating conflict where needed to increase profit. Since non living things cannot contain Vey, He is creating these enchanted weapons using a magic system invented outside the planet Veylis. To anyone else it would look like the Wizard is using the Outsider's technology to create alien weapons. In actually he is speaking in his native tongue to cast spells as well as using ingredients and alchemy invented on his native planet to enchant weapons with magic.
+### The Wizard monopolizes Higher Education
+The Archmage isn't just a powerful wizard; he is the Head of Global Education and Licensing.
+
+The Institution: The Octagon Primus. This is the world’s only "legal" magical university system. It has campuses in every major city.
+
+The Power: He controls The License to Practice. In this world, using magic without a Chancellor-stamped seal is a high crime.
+
+The Corruption (The "Benefit"): By controlling the curriculum, he ensures that no one ever learns "dangerous" magic (like the Vey/Will-based magic your players use). He keeps the best spells for his private "Tenured" faculty. He uses the school system to scout and steal the most talented children from their families, bringing them into the Octagon to be indoctrinated or neutralized.
+
+The Title: His Eminence, The Lord Chancellor of the High Arts.
 
 ### The Rogue is a special case...
 In the beginning the The Sellout Party wanted to use their new found bodies to continue their work as usual. However the Rogue in just a few days/weeks lost their immortality and most of their power because of an unknown rule of magic. The ideology that powers their powers comes from the ideology of the host body, not the Lich's ideology. The others 3 (Bard, Cleric, Wizard) realize that the Rogue's ideology (Steal from the rich to give to the poor) is so antithetical to a Corporate ideology that the body lost its powers incredibly quickly. This gave time for the other 3 to course correct and corrupt the ideology of their hosts. Making them sellouts that still fulfill the original rule of each possessed party member. Just in a twisted way. A loophole basically. 

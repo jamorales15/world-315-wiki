@@ -4,11 +4,11 @@
 
 # Auctus - The City of Spires
 
-![bastion.png](/img/user/z_Assets/bastion.png)
+![auctus.png](/img/user/z_Assets/auctus.png)
 
 ### Faction Type: Order
 
-This culture is formed around an organization dedicated to an ideology, like religion. Orders provide structure and resources to collectively pursue a common agenda. Bonds can be hierarchal, teacher-student, or colleague-to-colleague depending on the ethos of the order.
+This culture is formed around an organization dedicated to an ideology, like religion. Orders provide structure and resources to collectively pursue a common agenda. Bonds here are hierarchical with supreme leadership being held by the Emperor, although a case could be made that it is actually the Grand Inquisitor.
 
 Auctus is the capital city of the Veyrüm Empire and the seat of the Theocracy for the Rüm Ingenium.
 
@@ -24,11 +24,13 @@ Auctus has an obsession of the past. They look to the legends of their ancestors
 > - The Imperial Museum of Fine Arts shows state approved art
 > 	- Imperial Balls are held here annually, also used to show the new fashion trends.
 
-In Auctus, and so it is in all the empire, it is taught that the Aucticians are descended from the original mages who vanquished the Outsiders. Mages are not looked down upon in Auctus. In fact, they are revered. That is...assuming their bloodline is of Auctus. It is known that mages have gone missing form other vassal states of the empire. It is rumored that these mages are now the prisoners of the Rüm Ingenium's High Inquisitors where they experiment and torture them to find what makes a person naturally more attuned to magic.
+In Auctus, and so it is in all the empire, it is taught that the Aucticians are descended from the original mages who vanquished the Outsiders. Mages are not looked down upon in Auctus. In fact, they are revered. That is...assuming their bloodline is of Auctus. It is known that mages have gone missing from other vassal states of the empire. It is rumored that these mages are now the prisoners of the Rüm Ingenium's High Inquisitors where they experiment and torture them to find what makes a person naturally more attuned to magic.
 
 ### Treasure: The Spires of Salvation (Structure)
 
 Long ago, The old city of Auctus was continually attacked by flooding due to it's location below sea level. The value of their mines was deemed to great so, rather than move and let someone else have access, they created a new city situated high above the land via stone marvels of engineering and magic. This causes the city to resemble a city on massive columns earning it the nickname, The City of Spires. Serendipitously, when the massive earthquake caused The Mother of Tempests, Auctus was the only kingdom saved of any damage. This led to the belief that they were chosen people. That their mages were something special. Thus began their path to easily conquer what was left of the continent either by force, or by offering to use their magics to create barriers for their vassal states.
+
+It is unknown how Auctus circumvented the natural laws of magic and imbued this seemingly lifeless quarried stone with magical enhancements. Our current theory is that the stone is somehow organic.
 
 ### Treasure: The Tablet of Rüm (Writing)
 
@@ -36,6 +38,6 @@ Fifty years ago, The Tablet of Rüm was discovered deep in the mines of the spir
 
 ### Relationships
 
-Auctus -> Bastion
+Auctus believes Bastion to be heretical and misguided land. Once preparations have been made with the Inquisitorial Armada, Bastion's resources and skilled workers are to be offered "the true path". A missionary vessel has recently appeared on the shores of the Cradled Isles. A feat that understandably has the entire archipelago dismayed. Their powers in metallurgy have created a sea vessel that spites the Tempests.
 
-Auctus -> Vassal States
+Auctus sees their vassal states as nothing more than pawns. It is a classic cult tactic of offering using fear and temptations of power disguised as humanitarian aid. While their are some vassals that appear truly loyal to the Veyrüm Empire, Auctus has shown that only their inner circle has political capital.
