@@ -8,32 +8,32 @@
 
 ### Faction Type: School
 
-This culture is formed around a government. A city-state, it exists to provide protection, structure, and organization for the citizens living within them. Bonds between members are defined by political frameworks and civic structures.
+This culture is formed around an institution designed to study and instruct a particular subject or practice. Schools exist to collect and pass on knowledge, and some evaluate worth of members.
 
-Currently the city is governed by a council of merchants, foremen, artisans, and professors dubbed the "Council of Bastion"
+House Lavos is the world's largest gathering of historians, archeologists, and natural philosophers. Our aim is to promote free learning in all its forms. We provide the single largest public library and humanities display in the Cradled Isles located in the heart of Bastion. We call it the Anthroporium.
 
 ### A Faction of Knowledge
 
-Bastion is a prideful nation that celebrates a the strength of it's people. Their are known for their ideals of achievement and pushing the boundaries of industry. Their architecture is known the world round with the Embassy of Thorns being it's crown achievement. It is law that no other building in the nation may be taller than the Embassy.
+It is the belief of House Lavos that knowledge should be shared freely to all humanity. Our own institution provides expertise in the study of the natural history of our shared planet as well as the history of the various cultures past and present.
 
 > [!EXAMPLE]- Other Achievements
-> - The Tempered Mines whose efficiency is ensured by cutting edge machinery
-> - The architecture of Bastion Keep and the various homes within the town center.
-> - The greatest ships designed in the Cradled Isles
-> - Their University allows for many people from many nations to find their strengths
+> - House Lavos once owned one of the largest stakes in the Orichalcum mine
+> 	- All but a small portion of this was sold to build the Lavos Library and to continue to fund House expeditions and interests
+> - House Lavos is the second newest member of the Embassy of Thorns
+> - House Lavos's Anthroporium also houses the following:
+> 	- a large laboratory for examining artifacts
+> 	- a natural science and history museum
 
-The people hold themselves and their peers in high regard and subscribe to an ideal view of education, work ethic, and study. Sadly this can also lead to those who are unable to contribute to this ideal being forgotten; cast away by society. Those who are deemed to show no ambition or suffer from depression are considered wasted talent. These undesirables often live in tents in the forests to the east of town.
+It is undeniable that most of our peers dismiss our Houses pursuits. Not only the noble houses but the population at large. At best, they see our work as unprofitable. At worst, they see as a secular sect of heretics. That being said, we have seen an increase in interest from third parties in recent years. Especially from adventurers guilds outside of Bastion.
 
-### Treasure: Embassy of Thorns (Structure)
+### Treasure: The Anthroporium (Structure)
 
-This Embassy was built on an island in the basin of the Thorned Peaks. It was built by various people from across the Cradled Isles who call the city of Bastion home. Hopeful their creation would unite the Cradled Nations towards common goals, the building stands as a testament to the best intentions of society made manifest.
+The Anthroporium has become a base of operations for our house. Beyond the library, museum, and laboratory, it is equipped with a grand dining room, bedrooms, meeting room, and even a grand ballroom. It is the prized jewel of our house and no expense was spared in its construction.
 
-### Treasure: Pure Iron (Rarity)
+### Treasure: Anthropologists (People)
 
-Due to the properties of the Thorned Peaks, a treasure of pure iron veins line the mines established by the government of Bastion. This material is prized as the best iron in the world because of its purity. Unbeknownst to anyone, this is due to the Observer's xeno-forming in the area going awry centuries ago.
+Although many see our pursuit as pointless, there are yet a few who see our mission as vital. Over the years we have taken on many curious individuals and helped further their education. Those prospects who might have not had the opportunities to pay for Bastion's private education come to us. Of those who learn from us, many choose to stay and pass on what they have learned to others. We pride ourselves as a "House of many Houses".
 
 ### Relationships
 
-Bastion can find respect in any nation that works to serve a greater purpose. This could be Industry, Art, Culture, etc. However they take great offense at those would would exploit others to achieve greatness. The believe fully in the ideal that an educated and celebrated people create the best works.
-
-They fully believe that their greatest rival (and threat) is the Veyrüm Empire. Their industrious rise and conquering of their continent leaves them unmatched in strength and industry. Now that rumors are spreading that the Auctisian navy has developed ships capable of navigating through the Tempests of the Sundered Seas, the Council of Bastion has made Veyrüm their top priority.
+As of now we cannot claim ourselves to be one of the major factions on Veylis. There is a distinct and uncomfortable judgement when other Noble Houses bring up our name. That being said Bastion is still our birthplace and our home. Despite what individuals may say, Bastion as a whole still puts ambition above all else, and there is no one here who doubts our Ambition. Flawed as they may say it is.
