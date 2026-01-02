@@ -14,7 +14,7 @@ The faction of druids is known as the Last Circle while their forest home is kno
 
 ### A Faction of Nature
 
-To the outside world, the Last Circle appears to be the final remnants of a society many dismiss as being "primitive". Though reclusive, there have been enough accounts of their powerful magic that most give the Violet Weald a wide berth. Followers of nearly all Ingenium sects believe the Last Circle to be heretics who have gone crazy from the temptation of power. Better left to their own devices. It was with great pushback that the Embassy of Thorns allowed the Last Circle a seat at the embassy. The final vote to pass the resolution came from our newly instated House Lavos.
+To the outside world, the Last Circle appears to be the final remnants of a society many dismiss as being "primitive". Though reclusive, there have been enough accounts of their powerful magic that most give the Violet Weald a wide berth. Followers of nearly all Ingenium sects believe the Last Circle to be heretics who have gone crazy from the temptation of power. Better left to their own devices. It was with great pushback that the Embassy of Thorns allowed the Last Circle a seat at the embassy. The final vote to pass the resolution came from our own House Lavos.
 
 > [!EXAMPLE]- Other Achievements
 > - Not much is known about the cultural achievements of the Last Circle

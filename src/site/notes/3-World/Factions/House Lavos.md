@@ -14,12 +14,12 @@ House Lavos is the world's largest gathering of historians, archeologists, and n
 
 ### A Faction of Knowledge
 
-It is the belief of House Lavos that knowledge should be shared freely to all humanity. Our own institution provides expertise in the study of the natural history of our shared planet as well as the history of the various cultures past and present.
+My brother and I have a new ambition for our House. Our forebearers worked to pursue this dream within the constrains of Bastion society. They asked of us, without our wealth how could they help others? They feared being ostracized and refused to take the necessary leap. In this last decade we have worked to go beyond this. To forego future monetary gain and to replace it with prosperity in the present. It is now the belief of House Lavos that knowledge should be shared freely to all humanity.
 
 > [!EXAMPLE]- Other Achievements
+> - House Lavos is one of the oldest members of the Embassy of Thorns
 > - House Lavos once owned one of the largest stakes in the Orichalcum mine
 > 	- All but a small portion of this was sold to build the Lavos Library and to continue to fund House expeditions and interests
-> - House Lavos is the second newest member of the Embassy of Thorns
 > - House Lavos's Anthroporium also houses the following:
 > 	- a large laboratory for examining artifacts
 > 	- a natural science and history museum
