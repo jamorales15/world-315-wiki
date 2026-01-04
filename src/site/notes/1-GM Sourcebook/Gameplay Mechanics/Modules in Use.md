@@ -21,4 +21,7 @@ Mythras Companion:
 	- Action Points
 	- Health and Healing
 
+Reign: Rules 2e:
+- Company Rules and Actions
+
 [Click here for Campaign Settings Sheet](https://docs.google.com/spreadsheets/d/1NGjTxI453Nqp4JlOGbT1j8fFymutXnUZ/edit?usp=drive_link&ouid=102208780308570324049&rtpof=true&sd=true)
