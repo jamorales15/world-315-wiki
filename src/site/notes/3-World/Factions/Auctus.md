@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-world/factions/auctus/"}
+{"dg-publish":true,"permalink":"/3-world/factions/auctus/","tags":["faction/auctus","region/veyrüm-empire"]}
 ---
 
 # Auctus - The City of Spires

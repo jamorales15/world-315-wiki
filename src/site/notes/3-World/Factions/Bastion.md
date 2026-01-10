@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-world/factions/bastion/"}
+{"dg-publish":true,"permalink":"/3-world/factions/bastion/","tags":["faction/bastion","region/cradled-isles"]}
 ---
 
 # Bastion - The City of Possibilities
@@ -21,6 +21,12 @@ Bastion is a prideful nation that celebrates the strength of its people. Their a
 > - The architecture of Bastion Keep and the various homes within the town center.
 > - The greatest ships designed in the Cradled Isles
 > - Their University allows for many people from many nations to find their strengths
+
+
+> [!Abstract]- Vibes/Aesthetics
+> - Architecture: *Dark wood, iron fixtures, quarried stone, cobbled streets*
+> - [Bastion Mood Board](https://www.pinterest.com/jamorales15/world315-moodboard/bastion/)
+
 
 The people hold themselves and their peers in high regard and subscribe to an ideal view of education, work ethic, and study. These ideals however aren't some grand gesture. All that is done is done in the pursuit of profit and grandeur. Sadly this has lead to those who are unable to contribute to this ideal being forgotten; cast away by society. Those who are deemed to show no ambition or suffer from depression are considered wasted talent. These undesirables often live in tents in the forests to the east of town.
 

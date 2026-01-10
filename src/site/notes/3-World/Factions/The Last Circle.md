@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-world/factions/the-last-circle/"}
+{"dg-publish":true,"permalink":"/3-world/factions/the-last-circle/","tags":["faction/last-circle","region/cradled-isles"]}
 ---
 
 # The Last Circle of the Violet Weald

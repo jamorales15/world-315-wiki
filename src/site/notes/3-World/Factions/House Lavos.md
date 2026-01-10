@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-world/factions/house-lavos/"}
+{"dg-publish":true,"permalink":"/3-world/factions/house-lavos/","tags":["faction/lavos","region/cradled-isles"]}
 ---
 
 # House Lavos - Stewards of Science and History

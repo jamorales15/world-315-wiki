@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-world/factions/the-seachaven-league/"}
+{"dg-publish":true,"permalink":"/3-world/factions/the-seachaven-league/","tags":["faction/seachaven","region/cradled-isles"]}
 ---
 
 # The Seachaven League - Community of Communes
