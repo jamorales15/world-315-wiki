@@ -4,7 +4,7 @@
 
 # Bastion - The City of Possibilities
 
-![bastion.png](/img/user/z_Assets/bastion.png)
+
 
 ### Faction Type: State
 
