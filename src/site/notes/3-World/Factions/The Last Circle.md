@@ -20,6 +20,10 @@ To the outside world, the Last Circle appears to be the final remnants of a soci
 > - Not much is known about the cultural achievements of the Last Circle
 > - What can be said is their society is beautiful and seemingly immune to the weathering of time
 
+> [!Abstract]- Vibes/Aesthetics
+> - Architecture: *Natural, Druidic, Ephemeral, Runic, Rounded*
+> - [Violet Weald Mood Board](https://www.pinterest.com/jamorales15/world315-moodboard/the-violet-weald/)
+
 The Last Circle is an isolationist society. Most of what is known of their culture has come from past military as well as scientific expeditions. Each of which are seen as acts of aggression by the Druids. Though they hold a seat at the Embassy of Thorns, it is rare to see an ambassador in attendance. The last known appearance was by Chief Lotheria in regards to Seachaven's plans to build a reservoir between their lands. Her concerns were met with deaf ears.
 
 ### Treasure: Oasis (Place)

@@ -24,6 +24,10 @@ My brother and I have a new ambition for our House. Our forebearers worked to pu
 > 	- a large laboratory for examining artifacts
 > 	- a natural science and history museum
 
+> [!Abstract]- Vibes/Aesthetics
+> - Architecture: *Dark Academia, Wood, Noble*
+> - [House Lavos Mood Board](https://www.pinterest.com/jamorales15/world315-moodboard/house-lavos/)
+
 It is undeniable that most of our peers dismiss our Houses pursuits. Not only the noble houses but the population at large. At best, they see our work as unprofitable. At worst, they see as a secular sect of heretics. That being said, we have seen an increase in interest from third parties in recent years. Especially from adventurers guilds outside of Bastion.
 
 ### Treasure: The Anthroporium (Structure)

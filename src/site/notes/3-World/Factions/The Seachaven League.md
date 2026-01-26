@@ -21,6 +21,10 @@ The Seachaven League are only possible because of their pursuit of communicating
 > - The People's Guard of the Strong Hall are dressed in resplendent clothing of red and yellow that appear to be mostly ceremonial. However it is said that would-be intruders who breach the Strong Hall walls are never seen again
 > - The Reservoir is the largest project of its kind in the isles. It provides all of the necessary irrigation needed to power their agrarian society and economy.
 
+> [!Abstract]- Vibes/Aesthetics
+> - Architecture: *Cottages, Farmland, Peasantry, Simple*
+> - [Seachaven Mood Board](https://www.pinterest.com/jamorales15/world315-moodboard/seachaven/)
+
 Beyond their gifted artisans, the Seachaven League is an integral source of food for Bastion. As Bastion itself does not have significant farmable land, it relies on trade with the Seachaven League to feed it's ever densely growing city. For the Seachaven League, this trade is not the largest, but is the most stable source of income for their communes.
 
 ### Treasure: Reservoir (Structure/Place)

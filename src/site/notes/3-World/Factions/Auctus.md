@@ -24,6 +24,10 @@ Auctus has an obsession of the past. They look to the legends of their ancestors
 > - The Imperial Museum of Fine Arts shows state approved art
 > 	- Imperial Balls are held here annually, also used to show the new fashion trends.
 
+> [!Abstract]- Vibes/Aesthetics
+> - Architecture: *Tall, Steeped/Pointed, Grecco-Roman, Fascist, Industrial*
+> - [Auctus Mood Board](https://www.pinterest.com/jamorales15/world315-moodboard/auctus/)
+
 In Auctus, and so it is in all the empire, it is taught that the Aucticians are descended from the original mages who vanquished the Outsiders. Mages are not looked down upon in Auctus. In fact, they are revered. That is...assuming their bloodline is of Auctus. It is known that mages have gone missing from other vassal states of the empire. It is rumored that these mages are now the prisoners of the Rüm Ingenium's High Inquisitors where they experiment and torture them to find what makes a person naturally more attuned to magic.
 
 ### Treasure: The Spires of Salvation (Structure)
