@@ -14,7 +14,7 @@ The Seachaven League are "organized" in separate Anarcho-Communist communes with
 
 ### A Faction of Communication
 
-The Seachaven League are only possible because of their pursuit of communicating effectively with one another. They firmly believe that it is their communication and understanding of one another's circumstances is the "seed" that sows the "crop" of peace and art. Unlike the bustling industrial cities of Bastion or Auctus, the individual Seachaven League have time for things other than the pursuit of work. What time they don't spend attending to their own farms, they spend following individual pursuits. This has made the Seachaven League a leader in culture and the arts.
+The Seachaven League are only possible because of their pursuit of communicating effectively with one another. They firmly believe that it is their communication and understanding of one another's circumstances is the "seed" that sows the "crop" of peace and art. Unlike the bustling industrial cities of [[3-World/Factions/Bastion\|Bastion]] or [[3-World/Factions/Auctus\|Auctus]], the individual Seachaven League have time for things other than the pursuit of work. What time they don't spend attending to their own farms, they spend following individual pursuits. This has made the Seachaven League a leader in culture and the arts.
 
 > [!EXAMPLE]- Other Achievements
 > - The Balancing Lotus, A great work of art in the Strong Hall. Finely crafted and needing constant tuning, it is a metal Lily almost impossible balanced on the point a thin rapier.
@@ -25,7 +25,7 @@ Beyond their gifted artisans, the Seachaven League is an integral source of food
 
 ### Treasure: Reservoir (Structure/Place)
 
-Built by damning the bisecting river, the reservoir is of the utmost importance to the Seachaven League. It provides the ability to farm all of the land to capacity and also offers drinking water and indoor plumbing to all. The act of damning the river was seen as a hostile act by the Druids. To the west of the reservoir is a large flooded area where the druids successfully blew a hole in the reservoir. More explosions would have gone off but they were found in time by the People's Guard.
+Built by damning the bisecting river, the reservoir is of the utmost importance to the Seachaven League. It provides the ability to farm all of the land to capacity and also offers drinking water and indoor plumbing to all. The act of damning the river was seen as a hostile act by [[3-World/Factions/The Last Circle\|the Last Circle]]. To the west of the reservoir is a large flooded area where the Last Circle successfully blew a hole in the reservoir. More explosions would have gone off but they were found in time by the People's Guard.
 
 ### Treasure: Espionage (Skill)
 
@@ -33,6 +33,6 @@ One of the strangest stereotypes of the Cradled Isles is the one cast upon the s
 
 ### Relationships
 
-Even before the Reservoir incident, the Seachaven League were not on the best terms with the Druids. They certainly are not on speaking terms any longer. It is also no secret that the wood of the Druids' forest is prized for it's soft texture and resplendent color. It is bought by many an artist from the Seachaven League, even if through black market channels.
+Even before the Reservoir incident, the Seachaven League were not on the best terms with [[3-World/Factions/The Last Circle\|the Last Circle]]. They certainly are not on speaking terms any longer. It is also no secret that the wood of the Last Circle' forest is prized for it's soft texture and resplendent color. It is bought by many an artist from the Seachaven League, even if through black market channels.
 
 Bastion and the Seachaven League have a symbiotic relationship. They sell food to Bastion and Bastion and Bastion sells them the greatest merchant vessels in the Isles.

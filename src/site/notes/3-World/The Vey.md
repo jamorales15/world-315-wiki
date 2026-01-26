@@ -29,7 +29,7 @@ Time, patience, self-discipline. The Vey, no matter what ideology the holder wie
 <br>
 
 ##### Potency
-The potency is determined, to a degree, by the wielder's ideology. A mage who believes in that study and learning are the path to enlightenment may have strikingly obvious powers over the elements.  
+The potency is determined, to a degree, by the wielder's ideology. A mage who believe that the study of natural principles are the path to enlightenment may have strikingly obvious powers over the elements.  
   
 However, what truly gives power to a wielder of Vey is how their ideology gives them a sense of self-actualization. Those who come to understand the Vey itself and it's validity as their own "self-determination" become capable of the most astounding feats.
 <br>
@@ -37,7 +37,7 @@ However, what truly gives power to a wielder of Vey is how their ideology gives 
 ##### Commonality and Accessibility
 EVERY living being on Veylis has access to the Vey. But nearly no one understands it as the manifestation of "self-actualization" that it is. In the same way that no one in our mundane world can tell you "who you are", no one can explain the Vey to someone else. They can guide them towards the path but it is up to each individual to find it for themselves.
 
-It is important to note that a large, though still minority, of the population are basically magical luddites who shun Mages or those who show supernatural powers of any kind. It is common for Mages to not be granted access to businesses in certain parts of the world. The vast majority of people, though not luddites, are still laypeople without any real interest in the Vey beyond religious ceremonies in church. Their day to day lives demand too much from them to ponder any further.
+It is important to note that a large, yet still minority, portion of the population are basically magical luddites who shun Mages or those who show supernatural powers of any kind. It is common for Mages to not be granted access to businesses in certain parts of the world. The vast majority of people, though not luddites, are still laypeople without any real interest in the Vey beyond religious ceremonies in church. Their day to day lives demand too much from them to ponder any further.
 
-A majority of the population still holds onto the belief that [[3-World/The Vey\|The Vey]] is something to be suppressed and not wielded. It is much like "original sin" in Christianity.
+A majority of the population still holds onto the belief that the Vey is something to be suppressed and not wielded. It is much like "original sin" in Christianity.
 <br>

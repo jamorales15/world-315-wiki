@@ -19,7 +19,7 @@ My brother and I have a new ambition for our House. Our forebearers worked to pu
 > [!EXAMPLE]- Other Achievements
 > - House Lavos is one of the oldest members of the Embassy of Thorns
 > - House Lavos once owned one of the largest stakes in the Orichalcum mine
-> 	- All but a small portion of this was sold to build the Lavos Library and to continue to fund House expeditions and interests
+> 	- All but a small portion of this was sold to build the Anthroporium and to continue to fund House expeditions and interests
 > - House Lavos's Anthroporium also houses the following:
 > 	- a large laboratory for examining artifacts
 > 	- a natural science and history museum

@@ -20,4 +20,4 @@ The heroes go to the Central continent and confront the Outsiders as their machi
 
 The machine is partially destroyed as it explodes and energy causes the Mother of Tempests, destroying and shattering the central continent.
 
-That event took place 500 years ago from the beginning of the game. It sent the world into a dark age where civilization fell and humans forgot basic writing, technology, and their own history. The rest of history is told as shown in the [[3-World/Backdrop\|Backdrop]]
+That event took place 500 years ago from the beginning of the game. It sent the world into a dark age where civilization fell and humans forgot basic writing, technology, and their own history. The rest of history is told as shown in the [[1-GM Sourcebook/Backdrop\|Backdrop]]

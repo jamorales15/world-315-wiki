@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/3-world/world-timeline/"}
+---
+
+#### What are the important events in this world's timeline?
+- The Mother of Tempests happened around 500 years ago when the [[3-World/Heroes of Legend\|Heroes of Legend]] went to confront the Outsiders. This extinction even led to the death of many plant, animal, and human life. Especially in and around the equator of Veylis. Every great civilization at that time collapsed. Their teachings of writing, mathematics, and art were lost. Smaller storms called Tempests have rocked the world every few weeks since that day. Those who help predict the [[3-World/Weather\|weather]] and the next Tempest are called Tellers of the Tempests or just "Tellers"
+- Around 400 years ago (100 years after the Mother of Tempests) The tablet and tableaus of the Nexum Ingenium was discovered a few years after in the dungeons that were unearthed from the Mother of Tempests. The surviving humans could not translate it but they could understand the drawings. Thus began the legend of the Outsiders and the heroes of legend.
+- Around 200 years ago (300 years after the Mother of Tempests), a scientific expedition into one of these newly unearthed dungeons found what has become something of a Rosetta Stone for the Outsider's language. Now able to read the ancient Tablets and not just the pictures in the Tableaus, scholars of the time tried to rectify the legends of their ancestors to the history described in the Tablets. This led to the formal creation of the religion known as the Nexum Ingenium
+- Around 50 years ago new tablets were found in newly unearthed dungeons. These have led to revelations which have splintered the Nexum Ingenium into various sects. The repercussions of this new information is still be reckoned with to this day.

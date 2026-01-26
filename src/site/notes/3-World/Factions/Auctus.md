@@ -30,7 +30,7 @@ In Auctus, and so it is in all the empire, it is taught that the Aucticians are 
 
 Long ago, The old city of Auctus was continually attacked by flooding due to it's location below sea level. The value of their mines was deemed to great so, rather than move and let someone else have access, they created a new city situated high above the land via stone marvels of engineering and magic. This causes the city to resemble a city on massive columns earning it the nickname, The City of Spires. Serendipitously, when the massive earthquake caused The Mother of Tempests, Auctus was the only kingdom saved of any damage. This led to the belief that they were chosen people. That their mages were something special. Thus began their path to easily conquer what was left of the continent either by force, or by offering to use their magics to create barriers for their vassal states.
 
-It is unknown how Auctus circumvented the natural laws of magic and imbued this seemingly lifeless quarried stone with magical enhancements. Our current theory is that the stone is somehow organic.
+It is unknown how Auctus circumvented the natural laws of Vey and imbued this seemingly lifeless quarried stone with magical enhancements. Our current theory is that the stone is somehow organic.
 
 ### Treasure: The Tablet of Rüm (Writing)
 
